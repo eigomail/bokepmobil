@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://bokepmobil.pages.dev/sitemap.xml
